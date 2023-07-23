@@ -1,0 +1,278 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    ;
+}
+
+.right-section {
+    margin: 10px;
+    padding: 0 15px 0 15px;
+    display: flex;
+    width: 1000px
+}
+
+.detail {
+    display: flex;
+    margin: 0 0 0 5px;
+    font-size: 18px;
+    
+    align-items: center;
+}
+
+.details {
+    padding: 10px 20px;
+    margin: auto 0;
+    
+}
+
+.contact {
+    display: flex;
+    margin: 0 0 0 5px;
+    padding: 20px;
+    width: 300px;
+    /* margin-right: 400px; */
+}
+
+.left-section {
+    margin: 10px;
+    margin-left: 600px;
+}
+
+.info {
+    padding: 10px;
+    margin: auto 0;
+
+}
+
+.heading {
+    display: flex;
+    background-color: #fdfff5;
+    
+}
+
+.info-pro {
+    margin: auto 0;
+}
+
+a {
+    text-decoration: none;
+    
+}
+.letter{
+    color: black;
+}
+
+.description {
+    padding: 100px 250px;
+    display: flex;
+
+}
+
+.information {
+    padding: 65px 0 50px 80px;
+}
+
+.button {
+    margin-bottom: 19px;
+    font-size: 20px;
+    color: grey;
+}
+
+.img {
+    margin-bottom: 12px;
+}
+
+h1 {
+    font-size: 62px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h3 {
+    font-size: 26px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.submit {
+    width: 10rem;
+    border: none;
+    height: 2.7rem;
+    border-radius: 5px;
+    background-color: green;
+    font-size: 1rem;
+    color: whitesmoke;
+    margin-top: 25px;
+}
+
+.black {
+    color: white;
+    background-color: #1B1B1B;
+    margin-top: px;
+    padding: 90px;
+    justify-content: space-between;
+    max-height: 100px;
+
+}
+
+h5 {
+    font-size: 30px;
+}
+
+h6 {
+    font-size: 1.1rem;
+}
+
+.free-shipping {
+    padding: 37px;
+    background-color: #3B3C36;
+    border-radius: 5px;
+    margin: 15px;
+}
+
+.total {
+    display: flex;
+    justify-content: center;
+    margin-top: -30px;
+}
+
+.all {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.descrip {
+    text-align: center;
+}
+
+.Best {
+    text-align: center;
+    font-size: 2.3rem;
+    padding: 10px;
+    margin-top: 120px;
+}
+
+.product {
+    margin-left: 15px;
+    padding: 20px auto 10px auto;
+}
+
+.lea {
+    margin: 20px 0 50px 0;
+}
+.try{
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    margin: 50px 0 0 0;
+    font-weight: 300;
+    background-color: #f9f8f0;
+}
+.sub{
+    box-sizing: border-box;
+
+}
+.free{
+    padding: 0 35px;
+    
+    margin: 20px 0 20px 0;  
+}
+.off{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+    font-size: 1.rem;
+    margin-top: 100px;
+}
+.first{
+    font-size: 2rem;
+    font-weight: bolder;
+    margin: 100px;
+
+}
+
+
+.Shop{
+    background-color: green;
+    color: white;
+    padding: 15px;
+    font-size: 1rem;
+    border-radius: 5px;
+   
+}
+.trending{
+    padding: 100px 350px 70px 350px; 
+    
+}
+.trend{
+    display: flex;
+    justify-content: center;
+}
+.pata{
+    display: flex;
+    justify-content: center; 
+    margin: 15px 0 35px 0;
+}
+footer{
+    background-color: #000112;
+    padding: 70px 0 30px 0;
+    color: white;
+   /* min-height: 1800px; */
+}
+footer, a{
+    color: white;
+}
+.about{
+    display: flex;
+    justify-content: center;
+    margin: 0 350px;
+}
+.store{
+    width: 1500px
+}
+.links{
+    width: 700px;
+}
+.apps{
+   max-width: 700px;
+}
+.mi{
+    margin: 25px 0 15px 0;
+    font-style: italic;
+    color: 	#949494;
+}
+.pressure{
+    margin: 25px 0
+}
+.size{
+    font-size: 1.3rem;
+}
+.lorem{
+    margin: 30px 0;
+    color: 	#949494;
+}
+a{
+    color: lightgreen;
+}
+hr{
+    text-decoration: dotted;
+    border: 0.1px solid grey;
+    height: 0.1px;
+    background-color: #949494;
+}
+.copyright{
+    display: flex;
+    padding: 30px 300px 0 300px;
+    justify-content: space-between;
+margin-bottom: 0;
+}
+.social{
+    display: inline-block;
+    margin: 0 10px;
+}
